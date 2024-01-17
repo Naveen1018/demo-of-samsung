@@ -1,0 +1,525 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    /* font-family: "Outfit", sans-serif; */
+    font-family: "Poppins", sans-serif;
+    /* font-weight: 100; */
+    /* font-style: normal; */
+}
+
+#header1{
+    /* border: 2px solid red; */
+    height: 70px;
+    /* font-weight: bold; */
+}
+
+.sublist1>div>ol li{
+    font-weight: 500;
+    font-size: 12px;
+}
+
+#empty{
+    /* border: 2px solid red; */
+    width: 100px;
+}
+
+.logos{
+    height: 24px;
+}
+
+#sublist2>div>ol>li+li+li>svg{
+    height: 22px;
+}
+
+.sublist1>div{
+    /* border: 1px solid red; */
+    width: 630px;
+    margin-top: 25px;
+}
+
+.sublist1+li+.sublist1>div{
+    width: 170px;
+}
+
+.sublist1>div>ol{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+#sublist2>div{
+    /* border: 1px solid red; */
+    width: 120px;
+    margin-top: 17px;
+}
+
+#sublist2>div>ol{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+#list1{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+/* #logo>svg{
+    margin-top: 15px;
+} */
+
+#section1{
+    /* border: 1px solid red; */
+    height: 630px;
+    line-height: 32px;
+}
+
+#section1>video{
+    /* height: 100%; */
+    width: 100%;
+}
+
+#logo>img{
+    height: 42px;
+    margin-top: 14px;
+}
+
+.logos{
+    margin-top: 7px;
+}
+
+#profilelogo{
+    margin-top: 7px;
+}
+
+#para1{
+    font-size: 12px;
+    color: #fff;
+}
+
+#anchor1{
+    border: 1px solid red;
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: green;
+    cursor: pointer;
+}
+
+#button1{
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #000;
+    background-color: #fff;
+    cursor: pointer;
+    height: 35px;
+    width: 130px;
+    border: none;
+    border-radius: 20px;
+}
+
+#subsec{
+    border: 1px solid red;
+    margin-left: 70px;
+    margin-top: -370px;
+}
+
+#head1{
+   font-size: 44px;
+   color: #fff;
+   font-weight: 600;
+}
+
+#head1+p{
+    color: #fff;
+    margin-top: 20px;
+}
+
+#section1+h1{
+    text-align: center;
+    font-weight: 600;
+}
+
+#section2{
+    width: 700px;
+}
+
+#list2{
+    font-weight: 500;
+    font-size: 14px;
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+#high1{
+    height: 550px;
+    /* width: 40%; */
+    border-radius: 20px;
+    margin-left: 90px;
+}
+
+.list3img{
+    border-radius: 20px;
+    height: 273px;
+}
+
+#high1+h3+p{
+    font-size: 14px;
+}
+
+#subsec1{
+    margin-left: 650px;
+    margin-top: -515px;
+}
+
+#high1+h3{
+    margin-left: 280px;
+    margin-top: -100px;
+    color: #fff;
+    font-weight: 500;
+}
+
+#high1+h3+p{
+    color: #fff;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+#area+br+br+div>h1{
+    text-align: center;
+    font-weight: 600;
+}
+
+#area2{
+    background-color: whitesmoke;
+}
+
+#subsec2{
+    /* border: 2px solid red; */
+    width: 900px;
+    margin-left: 200px;
+}
+
+#area2list{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+#fold5{
+    height: 400px;
+    padding-left: 400px;
+}
+
+#fold5+h1{
+    font-size: 45px;
+}
+
+.para2{
+    text-align: center;
+}
+
+#subsec3{
+    margin-left: 550px;
+    padding-top: 5px;
+}
+
+#subsec3>span{
+    font-size: 13px;
+    font-weight: 500;
+}
+
+#subsec3>span+button{
+    height: 33px;
+    width: 90px;
+    border-radius: 20px;
+    color: #fff;
+    background-color: #000;
+    border: none;
+    font-weight: 500;
+    font-size: 12px;
+}
+
+#area3{
+    /* border: 2px solid red; */
+    background-repeat: no-repeat;
+    background-image: url("//images.samsung.com/is/image/samsung/assets/in/home/Qled-4K_1440x8104.jpg?$1440_810_JPG$");
+}
+
+#area3img{
+    width: 100%;
+}
+
+#area3div{
+    /* border: 2px solid; */
+    width: 700px;
+    margin-left: 300px;
+}
+
+#area3list{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    font-weight: 500;
+}
+
+#space{
+    height: 400px;
+    line-height: 7px;
+}
+
+#space+h1{
+    font-size: 40px;
+}
+
+#tvav{
+    padding-top: 40px;
+    text-align: center;
+}
+
+#qled{
+    padding-top: 60px;
+    text-align: center;
+}
+
+#qled~p{
+    text-align: center;
+}
+
+#buy{
+    height: 40px;
+    width: 80px;
+    border-radius: 20px;
+    font-size: 12px;
+    background-color: #000;
+    color: #fff;
+    font-weight: 500;
+    border: none;
+    margin-left: 580px;
+    margin-top: 5px;
+}
+
+#area4{
+    /* border: 2px solid red; */
+    height: 712px;
+}
+
+#area4>img{
+    width: 100%;
+}
+
+#appliances{
+    text-align: center;
+    font-weight: 600;
+    margin-top: -680px;
+}
+
+#appliances1{
+    text-align: center;
+    font-weight: 600;
+    margin-top: 80px;
+    font-size: 40px;
+}
+
+#area4list{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    font-weight: 500;
+    margin-top: 5px;
+}
+
+#appliances+div{
+    /* border: 1px solid red; */
+    width: 980px;
+    margin-left: 120px;
+}
+
+#space1{
+    height: 400px;
+}
+
+#buy1{
+    height: 40px;
+    width: 80px;
+    border-radius: 20px;
+    font-size: 12px;
+    background-color: #000;
+    color: #fff;
+    font-weight: 500;
+    border: none;
+    margin-left: 580px;
+    margin-top: 5px;
+}
+
+#area5>h1{
+    font-weight: 600;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.para3{
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.color{
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.spanweight{
+    font-weight: lighter;
+}
+
+.graphite{
+    border-radius: 100%;
+    background-color: grey;
+    height: 15px;
+    width: 15px;
+}
+
+.purple{
+    border-radius: 100%;
+    background-color: silver;
+    height: 15px;
+    width: 15px;
+}
+
+.lime{
+    border-radius: 100%;
+    background-color: lime;
+    height: 15px;
+    width: 15px;
+}
+
+.gold{
+    border-radius: 100%;
+    background-color: grey;
+    height: 15px;
+    width: 15px;
+}
+
+#colorlist{
+    display: flex;
+    list-style: none;
+    /* border: 1px solid red; */
+    width: 130px;
+    justify-content: space-evenly;
+}
+
+.graphitecolor{
+    border-radius: 100%;
+    background-color: greenyellow;
+    height: 15px;
+    width: 15px;
+}
+
+.silver{
+    border-radius: 100%;
+    background-color: greenyellow;
+    height: 15px;
+    width: 15px;
+}
+
+.goldcolor{
+    border-radius: 100%;
+    background-color: gold;
+    height: 15px;
+    width: 15px;
+}
+
+.graphitecolor{
+    border-radius: 100%;
+    background-color: silver;
+    height: 15px;
+    width: 15px;
+}
+
+.colorlist1{
+    display: flex;
+    list-style: none;
+    /* border: 1px solid red; */
+    width: 80px;
+    justify-content: space-evenly;
+}
+
+#area5>div>h1{
+    text-align: center;
+    font-weight: 600;
+    padding-top: 30px;
+}
+
+#area5list{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+.para3{
+    text-align: center;
+}
+
+.color{
+    text-align: center;
+    padding-top: 30px;
+}
+
+#colorlist{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.colorlist1{
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+#color111{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+#area6{
+    padding-top: 80px;
+}
+
+#area6>h1{
+    text-align: center;
+    font-weight: 600;
+}
+
+#image6{
+    border-radius: 20px;
+    height: 600px;
+}
+
+#flexarea{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}
+
+#area6img+div>ol{
+    list-style: none;
+    font-weight: 600;
+    line-height: 70px;
+    font-size: 20px;
+    padding-top: 80px;
+}
+
+#area6img+div+div>ol{
+    list-style: none;
+    font-weight: 600;
+    line-height: 70px;
+    font-size: 20px;
+    padding-top: 80px;
+}
